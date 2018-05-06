@@ -20,8 +20,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
 
   s.author             = { "Vlad D" => "vmd1u16@soton.ac.uk" }
-  
-
+  s.platform     = :ios, "10.0"
 
 
   s.source       = { :git => "https://github.com/vmd1u16/ThreeRingControl.git", :tag => "1.0.0" }
