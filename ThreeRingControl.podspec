@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.source       = { :git => "URL", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/vmd1u16/ThreeRingControl.git", :tag => "1.0.0" }
 
 
   s.source_files = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
